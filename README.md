@@ -28,4 +28,4 @@ plus independent weather, radar, flight-tracking, iOS and hardware projects.
 
 ### Stack
 
-TypeScript · Next.js · Python · Swift / SwiftUI · Kotlin & Java (Android) · Rust · SQL · Docker · Cloudflare · Vercel · Home Assistant · RTL-SDR
+TypeScript · Next.js · Python · Swift / SwiftUI · Java (Android) · Rust · SQL · Docker · Cloudflare · Vercel · Home Assistant · RTL-SDR
